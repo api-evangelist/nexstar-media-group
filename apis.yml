@@ -7,4 +7,7 @@ description: 'Fortune 1000 company Nexstar Media Group. Public API documentation
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nexstar-media-group-inc
 apis: []
